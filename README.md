@@ -12,6 +12,7 @@ I am actively seeking a role as a Data Analyst where I can gain valuable experie
 </div>
 - 📫 How to reach me: hugogomes@databyhugo.com
 
+
 My favorite project:
 - [@poGOData](https://github.com/HugoDataAnalyst/poGORealDataAnalysis)
 
