@@ -10,8 +10,8 @@ I am an aspiring Junior Data Analyst deeply passionate about extracting insights
 I am actively seeking a role as a Data Analyst where I can gain valuable experience, contribute meaningfully, and continue to grow, aspiring to become the very best version of myself within this dynamic field.
 
 </div>
-- 📫 How to reach me: hugogomes@databyhugo.com
 
+- 📫 How to reach me: hugogomes@databyhugo.com
 
 My favorite project:
 - [@poGOData](https://github.com/HugoDataAnalyst/poGORealDataAnalysis)
