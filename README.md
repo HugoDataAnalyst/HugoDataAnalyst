@@ -11,11 +11,11 @@ I am actively seeking a role as a Data Analyst where I can gain valuable experie
 
 </div>
 
-- 📫 How to reach me: hugogomes@databyhugo.com
-
 My favorite project:
 - [@poGOData](https://github.com/HugoDataAnalyst/poGORealDataAnalysis)
 
 My Skills:
 
 ![My Skills](https://skillicons.dev/icons?i=css,docker,flask,github,gitlab,html,linux,laravel,php,mysql,sqlite,postgres,nginx,py&perline=9)
+
+- 📫 How to reach me: hugogomes@databyhugo.com
