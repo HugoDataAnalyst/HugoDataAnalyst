@@ -12,7 +12,7 @@ I am actively seeking a role as a Data Analyst where I can gain valuable experie
 </div>
 
 My favorite project:
-- [@poGOData](https://github.com/HugoDataAnalyst/poGORealDataAnalysis)
+- [@Psyduck](https://github.com/HugoDataAnalyst/Psyduck)
 
 My Skills:
 
