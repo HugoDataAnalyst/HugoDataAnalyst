@@ -15,7 +15,15 @@ My favorite project:
 - [@PsyduckV2](https://github.com/HugoDataAnalyst/PsyduckV2)
 
 My Skills:
-
-![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,gitlab,docker,python,flask,mysql,sqlite,postgres,nginx,py&perline=9)
+- Linux;
+- VSCode;
+- Github, Gitlab;
+- Docker;
+- Python;
+- MySQL, SQLite, PostgreSQL;
+- Redis;
+- Nginx.
+- 
+![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,gitlab,docker,python,mysql,sqlite,postgres,nginx,py&perline=9)
 
 - 📫 How to reach me: hugogomes@databyhugo.com
