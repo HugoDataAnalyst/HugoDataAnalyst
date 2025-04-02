@@ -12,10 +12,10 @@ I am actively seeking a role as a Data Analyst where I can gain valuable experie
 </div>
 
 My favorite project:
-- [@Psyduck](https://github.com/HugoDataAnalyst/Psyduck)
+- [@PsyduckV2](https://github.com/HugoDataAnalyst/PsyduckV2)
 
 My Skills:
 
-![My Skills](https://skillicons.dev/icons?i=css,flask,github,gitlab,html,linux,laravel,php,mysql,sqlite,postgres,nginx,py&perline=9)
+![My Skills](https://skillicons.dev/icons?i=flask,github,gitlab,html,linux,laravel,php,mysql,sqlite,postgres,nginx,py&perline=9)
 
 - 📫 How to reach me: hugogomes@databyhugo.com
