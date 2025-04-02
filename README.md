@@ -16,6 +16,6 @@ My favorite project:
 
 My Skills:
 
-![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,gitlab,python,flask,mysql,sqlite,postgres,nginx,py&perline=9)
+![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,gitlab,docker,python,flask,mysql,sqlite,postgres,nginx,py&perline=9)
 
 - 📫 How to reach me: hugogomes@databyhugo.com
