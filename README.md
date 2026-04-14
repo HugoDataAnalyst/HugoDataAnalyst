@@ -31,7 +31,7 @@ Beyond analytics, I have deep expertise in system design, API development, datab
 - Design and implement real-time data processing pipelines
 - Build scalable database architectures (relational, cache, time-series)
 - Develop APIs and backend systems for data applications
-- Optimize system performance (3x-4x improvements through architecture redesign)
+- Optimize system performance
 - Deploy and manage production infrastructure
 
 📫 **Contact:** hugogomes@databyhugo.com
